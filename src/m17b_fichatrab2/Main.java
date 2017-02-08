@@ -6,6 +6,7 @@ package m17b_fichatrab2;
  */
 public class Main {
 
+    
     public static void main(String[] args) {
         // Ficha de Trabalho #2
         /**
